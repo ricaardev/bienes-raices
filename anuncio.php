@@ -37,5 +37,5 @@ incluirTemplate('header');
     </div>
 </main>
 <?php
-include 'includes/templates/footer.php';
+incluirTemplate('footer');
 ?>
