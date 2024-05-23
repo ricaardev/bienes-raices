@@ -1,5 +1,6 @@
 <?php
-include './includes/templates/header.php';
+require 'includes/funciones.php';
+incluirTemplate('header', $inicio = true);
 ?>
 <main class="contenedor seccion">
     <h1>Contacto</h1>
@@ -68,5 +69,5 @@ include './includes/templates/header.php';
     </form>
 </main>
 <?php
-include './includes/templates/footer.php';
+include 'includes/templates/footer.php';
 ?>
