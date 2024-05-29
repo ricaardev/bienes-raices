@@ -52,8 +52,8 @@ incluirTemplate('header');
                 <label for="contactar-telefono">Teléfono</label>
                 <input name="contacto" type="radio" value="telefono" id="contactar-telefono">
 
-                <label for="contactar-contactar-email">E-mail</label>
-                <input name="contacto" type="radio" value="contactar-email" id="contactar-telefono">
+                <label for="contactar-email">E-mail</label>
+                <input name="contacto" type="radio" value="contactar-email" id="contactar-email">
             </div>
             <p>Si eligió teléfono, elija la fecha y la hora</p>
 

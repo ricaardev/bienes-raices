@@ -55,7 +55,7 @@ incluirTemplate('header', $inicio = true);
                         <p>4</p>
                     </li>
                 </ul>
-                <a href="anuncio.html" class="boton-amarillo-block">
+                <a href="anuncio.php" class="boton-amarillo-block">
                     Ver Propiedad
                 </a>
             </div> <!-- .contenido-anuncio -->
@@ -85,7 +85,7 @@ incluirTemplate('header', $inicio = true);
                         <p>4</p>
                     </li>
                 </ul>
-                <a href="anuncio.html" class="boton-amarillo-block">
+                <a href="anuncio.php" class="boton-amarillo-block">
                     Ver Propiedad
                 </a>
             </div> <!-- .contenido-anuncio -->
@@ -115,7 +115,7 @@ incluirTemplate('header', $inicio = true);
                         <p>4</p>
                     </li>
                 </ul>
-                <a href="anuncio.html" class="boton-amarillo-block">
+                <a href="anuncio.php" class="boton-amarillo-block">
                     Ver Propiedad
                 </a>
             </div> <!-- .contenido-anuncio -->
@@ -123,7 +123,7 @@ incluirTemplate('header', $inicio = true);
     </div> <!-- .contenedor-anuncios -->
 
     <div class="alinear-derecha">
-        <a href="anuncios.html" class="boton-verde">Ver Todas</a>
+        <a href="anuncios.php" class="boton-verde">Ver Todas</a>
     </div>
 </section>
 
@@ -145,7 +145,7 @@ incluirTemplate('header', $inicio = true);
                 </picture>
             </div>
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Terraza en el techo de tu casa</h4>
                     <p class="informacion-meta">Escrito el: <span>20/10/2021</span> por: <span>Admin</span></p>
 
@@ -163,10 +163,9 @@ incluirTemplate('header', $inicio = true);
                 </picture>
             </div>
             <div class="texto-entrada">
-                <a href="entrada.html">
+                <a href="entrada.php">
                     <h4>Guía para la decoración de tu hogar</h4>
                     <p class="informacion-meta">Escrito el: <span>20/10/2021</span> por: <span>Admin</span></p>
-
                     <p>Maximiza el espacio en tu hogar, aprende a combinar muebles y colores para darle vida a tu
                         espacio</p>
                 </a>
